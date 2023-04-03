@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/xT9IgG50Fb7Mi0prBC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-wave-xT9IgG50Fb7Mi0prBC">via GIPHY</a></p>
+
 <!--
 **L-Garay/L-Garay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
